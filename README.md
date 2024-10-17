@@ -1,12 +1,18 @@
 <h3 align="left">Hi 👋! Do stick around~</h3>
 
 ###
-<div style="text-align: center;">
+<div style="text-align: center;">  
   <img src="https://github-readme-stats.vercel.app/api?username=2gblue&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+</div>
+<br>
+<div style="text-align: center;">  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=2gblue&theme=vue-dark&hide_border=true" />
+</div>
+<br>
+<div style="text-align: center;">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2gblue&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
 </div>
-
+  
 ###
 
 <div align="left">
